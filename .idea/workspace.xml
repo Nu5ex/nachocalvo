@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c7c323-5b7e-444e-991c-38a6b4395136" name="Changes" comment="rama" />
+    <list default="true" id="b8c7c323-5b7e-444e-991c-38a6b4395136" name="Changes" comment="rama3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -56,12 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684775419961</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rama2">
+      <created>1685551684745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685551684745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rama3">
+      <created>1685551868716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685551868716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="joel guapo" />
     <MESSAGE value="rama" />
-    <option name="LAST_COMMIT_MESSAGE" value="rama" />
+    <MESSAGE value="rama2" />
+    <MESSAGE value="rama3" />
+    <option name="LAST_COMMIT_MESSAGE" value="rama3" />
   </component>
 </project>
